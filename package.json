@@ -1,5 +1,5 @@
 {
-  "name": "jpush-react-native",
+  "name": "yh-jpush-react-native",
   "version": "2.5.3",
   "description": "a jpush plugin for react native application",
   "main": "index.js",
